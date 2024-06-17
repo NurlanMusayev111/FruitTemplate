@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FruitTemplate-BackEnd.props" />
+</Project>

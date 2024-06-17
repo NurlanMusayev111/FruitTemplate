@@ -1,0 +1,1109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\sliders\\slidereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\sliders\\slidereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\slider\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\slider\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\helpers\\fileextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\helpers\\fileextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\controllers\\factcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\controllers\\factcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\sliders\\sliderdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\sliders\\sliderdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\facts\\factdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\facts\\factdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\sliders\\slidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\sliders\\slidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\category\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\category\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\features\\featurevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\features\\featurevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\facts\\factvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\facts\\factvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\fact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\fact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\fact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\fact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\facts\\facteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\facts\\facteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\fact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\fact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\facts\\factcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\facts\\factcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\features\\featureeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\features\\featureeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\category\\categoryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\category\\categoryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\fact\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\fact\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\feature\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\feature\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\features\\featurecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\features\\featurecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\feature\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\feature\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\features\\featuredetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\features\\featuredetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewmodels\\category\\categorydetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewmodels\\category\\categorydetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\fact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\fact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\sliderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\sliderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_BEP2F69_SQLEXPRESS01/FruitBackEnd/True/SqlTable/dbo.SliderInfo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|c:\\users\\lenovo\\desktop\\asp.net core\\fruittemplate-backend\\fruittemplate-backend\\migrations\\20240612135959_createslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B9BF7-ADBA-4FBF-8F00-E1395D92BFFB}|FruitTemplate-BackEnd\\FruitTemplate-BackEnd.csproj|solutionrelative:fruittemplate-backend\\migrations\\20240612135959_createslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SliderEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderEditVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderEditVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderEditVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:29:39.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:35:04.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAhwKkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T08:28:46.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:10:57.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Product.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:56:32.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\ProductImage.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:18:47.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\appsettings.json",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T09:09:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAD4v64AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:51:25.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Edit.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:47:40.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Program.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:39:52.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T06:54:32.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:09:10.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FactDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Facts\\FactDetailVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Facts\\FactDetailVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Facts\\FactDetailVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Facts\\FactDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:52:15.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAYwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:50:25.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:50:48.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Helpers\\FileExtentions.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Helpers\\FileExtentions.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Helpers\\FileExtentions.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Helpers\\FileExtentions.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:02:58.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SliderDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderDetailVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderDetailVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderDetailVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:14:24.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T09:20:09.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FactController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\FactController.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\FactController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\FactController.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\FactController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwIEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:35:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:43:09.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SliderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:54:50.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T07:44:20.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAhwAcBAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T20:47:39.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Sliders\\SliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:55:05.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T07:23:53.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:32.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FeatureVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:47:31.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FactVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Facts\\FactVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Facts\\FactVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Facts\\FactVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Facts\\FactVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:37:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:16:47.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T20:59:04.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Index.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:41:46.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:48:26.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Detail.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:56:40.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FactEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Facts\\FactEditVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Facts\\FactEditVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Facts\\FactEditVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Facts\\FactEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:11:22.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Edit.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T08:16:58.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FactCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Facts\\FactCreateVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Facts\\FactCreateVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Facts\\FactCreateVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Facts\\FactCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:31:39.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Create.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Create.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Fact\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T08:33:44.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryEditVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryEditVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryEditVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:23:09.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAewBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:44:58.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FeatureEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureEditVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureEditVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureEditVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:57:32.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T17:17:25.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Edit.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:03:37.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FeatureDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureDetailVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureDetailVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureDetailVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:00:17.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Detail.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Feature\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T17:01:52.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FeatureCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureCreateVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureCreateVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureCreateVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Features\\FeatureCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:14:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:34:17.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:12:11.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Feature.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:11:22.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:14:12.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CategoryDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryDetailVM.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryDetailVM.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryDetailVM.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewModels\\Category\\CategoryDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:09:56.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Categories.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:34:04.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T20:46:54.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T20:35:08.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Service.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:01:52.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SliderInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\SliderInfo.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\SliderInfo.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\SliderInfo.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\SliderInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:58:34.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:58:44.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Fact.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Fact.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\Fact.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Fact.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\Fact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:05:52.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BestSeller.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\BestSeller.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\BestSeller.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\BestSeller.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\BestSeller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:46:25.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\Banner.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Banner.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\Banner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:00:30.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALUAAAAAAAAAAAAAAMcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:15:14.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "dbo.SliderInfo [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_BEP2F69_SQLEXPRESS01/FruitBackEnd/True/SqlTable/dbo.SliderInfo.sql",
+              "ToolTip": "dbo.SliderInfo [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-12T14:09:13.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240612135959_CreateSliderTable.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Migrations\\20240612135959_CreateSliderTable.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Migrations\\20240612135959_CreateSliderTable.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Migrations\\20240612135959_CreateSliderTable.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Migrations\\20240612135959_CreateSliderTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:00:00.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:39:41.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:41:02.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:10:04.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "default.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\Shared\\Components\\Header\\default.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Views\\Shared\\Components\\Header\\default.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\Shared\\Components\\Header\\default.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Views\\Shared\\Components\\Header\\default.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwC4AAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:03:05.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Models\\Setting.cs",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:53:08.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FruitTemplate-BackEnd\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FruitTemplate-BackEnd\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:18:06.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
