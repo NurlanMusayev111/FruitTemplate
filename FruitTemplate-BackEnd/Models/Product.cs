@@ -9,6 +9,5 @@
         public int CategoryId { get; set; }
         public Categories Category { get; set; }
         public ICollection<ProductImage> ProductImages { get; set; }
-
     }
 }

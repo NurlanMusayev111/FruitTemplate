@@ -12,5 +12,6 @@ namespace FruitTemplate_BackEnd.ViewModels.Home
         public List<Fact> Facts { get; set; }
         public List<Categories> Categories { get; set; }
         public List<Feature> Features { get; set; }
+        public List<Product> Products { get; set; }
     }
 }

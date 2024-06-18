@@ -264,7 +264,7 @@ namespace FruitTemplate_BackEnd.Migrations
             modelBuilder.Entity("FruitTemplate_BackEnd.Models.Product", b =>
                 {
                     b.HasOne("FruitTemplate_BackEnd.Models.Categories", "Category")
-                        .WithMany()
+                        .WithMany("Products")
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -281,6 +281,11 @@ namespace FruitTemplate_BackEnd.Migrations
                         .IsRequired();
 
                     b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("FruitTemplate_BackEnd.Models.Categories", b =>
+                {
+                    b.Navigation("Products");
                 });
 
             modelBuilder.Entity("FruitTemplate_BackEnd.Models.Product", b =>

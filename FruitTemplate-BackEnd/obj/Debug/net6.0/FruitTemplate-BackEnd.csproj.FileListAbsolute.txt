@@ -231,6 +231,7 @@ C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd
 C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd\obj\Debug\net6.0\FruitTemplate-BackEnd.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd\obj\Debug\net6.0\FruitTemplate-BackEnd.RazorAssemblyInfo.cache
 C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd\obj\Debug\net6.0\FruitTemplate-BackEnd.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd\obj\Debug\net6.0\FruitTemplate-BackEnd.sourcelink.json
 C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.FruitTemplate-BackEnd.Microsoft.AspNetCore.StaticWebAssets.props

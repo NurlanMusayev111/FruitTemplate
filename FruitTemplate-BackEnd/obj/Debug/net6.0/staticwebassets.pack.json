@@ -3517,6 +3517,22 @@
       "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
     },
     {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\bread1.jfif",
+      "PackagePath": "staticwebassets\\img\\bread1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\bread2.jfif",
+      "PackagePath": "staticwebassets\\img\\bread2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\bread3.jfif",
+      "PackagePath": "staticwebassets\\img\\bread3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\bread4.jfif",
+      "PackagePath": "staticwebassets\\img\\bread4.jfif"
+    },
+    {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\cart-page-header-img.jpg",
       "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
     },
@@ -3563,6 +3579,18 @@
     {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\hero-img.jpg",
       "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\meat1.jfif",
+      "PackagePath": "staticwebassets\\img\\meat1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\meat2.jfif",
+      "PackagePath": "staticwebassets\\img\\meat2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\meat3.jfif",
+      "PackagePath": "staticwebassets\\img\\meat3.jfif"
     },
     {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\payment.png",
