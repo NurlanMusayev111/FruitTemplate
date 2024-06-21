@@ -3,5 +3,29 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+<div class="container mt-5">
+    <div class="image">
+        <img src="~/img/@Model.Image" style="height:300px; width:400px" />
+    </div>
+    <form class="forms-sample" method="post" asp-action="Edit" enctype="multipart/form-data">
+        <div class="form-group">
+
+            <label>New Best Seller Title</label>
+            <input asp-for="Title" class="form-control">
+            <span class="text-danger" asp-validation-for="Title"></span>
+
+            <label>New Best Seller Price</label>
+            <input asp-for="Price" class="form-control">
+            <span class="text-danger" asp-validation-for="Price"></span>
+
+            <label>New Best Seller Image</label>
+            <input asp-for="NewImage" class="form-control">
+            <span class="text-danger" asp-validation-for="NewImage"></span>
+
+        </div>
+        <button class="btn btn-primary mr-2">Submit</button>
+        <a asp-action="Index" class="btn btn-primary text-white">back</a>
+    </form>
+</div>
+
 

@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\lenovo\Desktop\Asp.net core\FruitTemplate-BackEnd\FruitTemplate-BackEnd
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/lenovo/Desktop/Asp.net core/FruitTemplate-BackEnd/FruitTemplate-BackEnd/Areas/Admin/Views/Banner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFubmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lenovo/Desktop/Asp.net core/FruitTemplate-BackEnd/FruitTemplate-BackEnd/Areas/Admin/Views/BestSeller/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmVzdFNlbGxlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
