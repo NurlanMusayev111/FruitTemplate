@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g9vOLBOxGrSZOxgkrhJ7zMZscwxiP1FPBva2p2EKdZI=",
+  "Hash": "mxEBv8ZwTS1UlfpMtZ8WJuWYnDJsH308PAAHqX3mC68=",
   "Source": "FruitTemplate-BackEnd",
   "BasePath": "_content/FruitTemplate-BackEnd",
   "Mode": "Default",
@@ -16716,6 +16716,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\788d2558-8598-438d-a61f-94beb5c18341-best-product-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\a575b61a-79bc-46af-9127-1b00679a6a4a-788d2558-8598-438d-a61f-94beb5c18341-best-product-4.jpg",
+      "SourceId": "FruitTemplate-BackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\",
+      "BasePath": "_content/FruitTemplate-BackEnd",
+      "RelativePath": "img/a575b61a-79bc-46af-9127-1b00679a6a4a-788d2558-8598-438d-a61f-94beb5c18341-best-product-4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a575b61a-79bc-46af-9127-1b00679a6a4a-788d2558-8598-438d-a61f-94beb5c18341-best-product-4.jpg"
     },
     {
       "Identity": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\avatar.jpg",
