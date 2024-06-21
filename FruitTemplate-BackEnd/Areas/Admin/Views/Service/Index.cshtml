@@ -6,13 +6,14 @@
 
 <div class="container mt-5 mx-5">
     <div class="create-category">
-        <a asp-area="Admin" asp-controller="Feature" asp-action="Create" class="btn btn-success text-white" style="font-size:30px;width120px">+</a>
+        <a asp-area="Admin" asp-controller="Service" asp-action="Create" class="btn btn-success text-white" style="font-size:30px;width120px">+</a>
     </div>
     <table class="table table-striped">
         <thead>
             <tr>
-                <th> Feature title </th>
-                <th> Feature description </th>
+                <th> Service Icon </th>
+                <th> Service title </th>
+                <th> Service description </th>
                 <th> Operations </th>
             </tr>
         </thead>
@@ -20,6 +21,10 @@
             @foreach (var item in Model)
             {
                 <tr>
+                    <td>
+                        <img src="~/img/@item.Icon" alt="Alternate Text" />
+                    </td>
+
                     <td class="py-1">
                         @item.Title
                     </td>

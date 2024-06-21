@@ -1,0 +1,23 @@
+﻿@model ServiceDetailVM
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="container mt-5">
+    <form class="forms-sample" method="post" asp-action="Create">
+        <div class="form-group">
+
+            <label style="display:block">Service Icon</label>
+            <img src="~/img/@Model.Icon" style="height:300px;width:400px" alt="Alternate Text" />
+
+            <label>Service Title</label>
+            <input asp-for="Title" type="text" disabled class="form-control">
+
+            <label>Service Description</label>
+            <input asp-for="Description" type="text" disabled class="form-control">
+        </div>
+        <a asp-action="Index" class="btn btn-primary text-white">back</a>
+    </form>
+</div>
+

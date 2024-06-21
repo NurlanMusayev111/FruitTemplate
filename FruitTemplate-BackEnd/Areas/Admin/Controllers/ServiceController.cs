@@ -24,5 +24,25 @@ namespace FruitTemplate_BackEnd.Areas.Admin.Controllers
 
             return View(model);
         }
+
+
+        [HttpGet]
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if (id is null) return BadRequest();
+
+            Service service = await _context.Services.FirstOrDefaultAsync();
+
+            if(service is null) return NotFound();
+
+            ServiceDetailVM model = new()
+            {
+                Icon = service.Icon,
+                Title = service.Title,
+                Description = service.Description
+            };
+
+            return View(model);
+        }
     }
 }
