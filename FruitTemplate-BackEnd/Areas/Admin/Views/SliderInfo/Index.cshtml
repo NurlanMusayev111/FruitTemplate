@@ -1,0 +1,44 @@
+﻿@model List<SliderInfo>
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <a class="btn btn-success" asp-area="Admin" asp-controller="SliderInfo" asp-action="Create">+</a>
+
+
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th> Title </th>
+                        <th> Description </th>
+                        <th> Operations </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="py-1">
+                                @item.Title
+                            </td>
+
+                            <td class="py-1">
+                                @item.Description
+                            </td>
+
+                            <td>
+                                <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-info text-white">Info</a>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white">edit</a>
+                                <form class="d-inline" asp-action="Delete" method="post" asp-route-id="@item.Id">
+                                    <button type="submit" class="btn btn-danger text-white">delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

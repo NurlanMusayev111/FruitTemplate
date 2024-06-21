@@ -3493,6 +3493,10 @@
       "PackagePath": "staticwebassets\\img\\31bd95ff-5e1d-445f-bcb4-840aab9c6ee5-banner-fruits.jpg"
     },
     {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\4ce47295-f323-4225-b7b8-93c54a3f8d96-best-product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\4ce47295-f323-4225-b7b8-93c54a3f8d96-best-product-6.jpg"
+    },
+    {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\531e1672-aae2-4c18-adec-3b60d193aad5-31bd95ff-5e1d-445f-bcb4-840aab9c6ee5-banner-fruits.jpg",
       "PackagePath": "staticwebassets\\img\\531e1672-aae2-4c18-adec-3b60d193aad5-31bd95ff-5e1d-445f-bcb4-840aab9c6ee5-banner-fruits.jpg"
     },
@@ -3509,12 +3513,20 @@
       "PackagePath": "staticwebassets\\img\\65771b0d-6a92-4ed8-b0c1-100db70bdddb-baner-1.png"
     },
     {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\714e5b69-8159-435f-b5af-d6581067024f-abb916ab-9201-4638-b307-7e2b461f1b12-featur-2.jpg",
+      "PackagePath": "staticwebassets\\img\\714e5b69-8159-435f-b5af-d6581067024f-abb916ab-9201-4638-b307-7e2b461f1b12-featur-2.jpg"
+    },
+    {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\788d2558-8598-438d-a61f-94beb5c18341-best-product-4.jpg",
       "PackagePath": "staticwebassets\\img\\788d2558-8598-438d-a61f-94beb5c18341-best-product-4.jpg"
     },
     {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\a575b61a-79bc-46af-9127-1b00679a6a4a-788d2558-8598-438d-a61f-94beb5c18341-best-product-4.jpg",
       "PackagePath": "staticwebassets\\img\\a575b61a-79bc-46af-9127-1b00679a6a4a-788d2558-8598-438d-a61f-94beb5c18341-best-product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\abb916ab-9201-4638-b307-7e2b461f1b12-featur-2.jpg",
+      "PackagePath": "staticwebassets\\img\\abb916ab-9201-4638-b307-7e2b461f1b12-featur-2.jpg"
     },
     {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\avatar.jpg",
@@ -3559,10 +3571,6 @@
     {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\cart-page-header-img.jpg",
       "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\featur-1.jpg",
-      "PackagePath": "staticwebassets\\img\\featur-1.jpg"
     },
     {
       "Id": "C:\\Users\\lenovo\\Desktop\\Asp.net core\\FruitTemplate-BackEnd\\FruitTemplate-BackEnd\\wwwroot\\img\\featur-2.jpg",

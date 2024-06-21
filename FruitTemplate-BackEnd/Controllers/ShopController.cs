@@ -1,7 +1,9 @@
 ﻿using FruitTemplate_BackEnd.Data;
 using FruitTemplate_BackEnd.Models;
 using FruitTemplate_BackEnd.ViewModels;
+using FruitTemplate_BackEnd.ViewModels.Category;
 using FruitTemplate_BackEnd.ViewModels.Shops;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -34,5 +36,26 @@ namespace FruitTemplate_BackEnd.Controllers
 
             return View(model);
         }
+
+
+        public async Task<IActionResult> ProductDetail(int? id)
+        {
+            List<Product> products = await _context.Products.Include(m=>m.ProductImages)
+                                                            .Include(m=>m.Category)
+                                                            .ToListAsync();
+            Product product = await _context.Products.Where(m=>m.Id == id).FirstOrDefaultAsync();
+            List<Categories> categories = await _context.Categories.ToListAsync();
+
+
+            ShopVM datas = new()
+            {
+                Products = products,
+                Product = product,
+                Categories = categories
+            };
+
+            return View(datas);
+        }
+
     }
 }
