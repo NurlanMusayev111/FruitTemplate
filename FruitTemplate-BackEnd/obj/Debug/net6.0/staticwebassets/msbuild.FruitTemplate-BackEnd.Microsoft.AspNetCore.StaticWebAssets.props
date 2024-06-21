@@ -13888,6 +13888,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\108de377-32ad-4c1f-8ea1-6a8f5c49f2f6-fruite-item-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\1c50935c-ae35-45bf-ae39-67833648ab07-best-product-1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FruitTemplate-BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FruitTemplate-BackEnd</BasePath>
+      <RelativePath>img/1c50935c-ae35-45bf-ae39-67833648ab07-best-product-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\1c50935c-ae35-45bf-ae39-67833648ab07-best-product-1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\29754c99-14b2-4847-a191-f0c70e3bd885-fruite-item-3.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>FruitTemplate-BackEnd</SourceId>

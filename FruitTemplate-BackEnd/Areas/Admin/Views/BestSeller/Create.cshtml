@@ -1,0 +1,28 @@
+﻿@model BestSellerCreateVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-5">
+    <form class="forms-sample" method="post" asp-action="Create" enctype="multipart/form-data">
+        <div class="form-group">
+
+            <label>BestSeller Image</label>
+            <input asp-for="Image" class="form-control" />
+            <span class="text-danger" asp-validation-for="Image"></span>
+
+            <label>BestSeller Title</label>
+            <input asp-for="Title" class="form-control" />
+            <span class="text-danger" asp-validation-for="Title"></span>
+
+            <label>BestSeller Price</label>
+            <input asp-for="Price" class="form-control" />
+            <span class="text-danger" asp-validation-for="Price"></span>
+
+
+        </div>
+        <button class="btn btn-primary mr-2">Submit</button>
+        <a asp-action="Index" class="btn btn-primary text-white">back</a>
+    </form>
+</div>
