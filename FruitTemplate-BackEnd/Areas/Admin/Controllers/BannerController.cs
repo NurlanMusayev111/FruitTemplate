@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace FruitTemplate_BackEnd.Areas.Admin.Controllers
 {
+	[Area("Admin")]
 	public class BannerController : Controller
 	{
 
