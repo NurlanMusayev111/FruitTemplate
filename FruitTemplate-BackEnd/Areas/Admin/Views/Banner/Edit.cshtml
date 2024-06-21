@@ -1,0 +1,37 @@
+﻿@model BannerEditVM
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container mt-5">
+    <div class="image">
+        <img src="~/img/@Model.Image" style="height:300px; width:400px" />
+    </div>
+    <form class="forms-sample" method="post" asp-action="Edit" enctype="multipart/form-data">
+        <div class="form-group">
+
+            <label>New Banner Image</label>
+            <input asp-for="NewImage" class="form-control">
+            <span class="text-danger" asp-validation-for="NewImage"></span>
+
+            <label>Banner Title</label>
+            <input asp-for="Title" class="form-control">
+            <span class="text-danger" asp-validation-for="Title"></span>
+
+            <label>Banner Description</label>
+            <input asp-for="Description" class="form-control">
+            <span class="text-danger" asp-validation-for="Description"></span>
+
+            <label>Banner Price</label>
+            <input asp-for="Price" class="form-control">
+            <span class="text-danger" asp-validation-for="Price"></span>
+
+
+
+        </div>
+        <button class="btn btn-primary mr-2">Submit</button>
+        <a asp-action="Index" class="btn btn-primary text-white">back</a>
+    </form>
+</div>
+
