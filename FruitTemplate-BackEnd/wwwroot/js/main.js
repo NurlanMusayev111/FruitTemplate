@@ -1,3 +1,32 @@
+
+(function ($) {
+    "use strict";
+
+    // Tab-menu
+    $(document).on('click', '.categories .category', function (e) {
+        e.preventDefault();
+        let category = $(this).attr('category-id');
+        let products = $('.fruite-item');
+
+        products.each(function () {
+            if (category == $(this).attr('category-id')) {
+                $(this).parent().fadeIn();
+            }
+            else {
+                $(this).parent().hide();
+            }
+        })
+        if (category == 'All') {
+            products.parent().fadeIn();
+        }
+    })
+
+
+
+
+
+
+
 (function ($) {
     "use strict";
 
@@ -148,4 +177,8 @@
     });
 
 })(jQuery);
+
+
+
+
 

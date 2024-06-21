@@ -23,7 +23,7 @@ namespace FruitTemplate_BackEnd.Controllers
             List<Fact> facts = await _context.Facts.ToListAsync();
             List<Categories> categories = await _context.Categories.ToListAsync();
             List<Feature> features = await _context.Features.ToListAsync();
-            List<Product> products = await _context.Products.Include(m=>m.ProductImages).Take(6).ToListAsync();
+            List<Product> products = await _context.Products.Include(m=>m.ProductImages).ToListAsync();
             
 
             HomeVM model = new()
