@@ -133,34 +133,39 @@ namespace FruitTemplate_BackEnd.Areas.Admin.Controllers
 
             if (service is null) return NotFound();
 
-            if (request.NewImage is null) return RedirectToAction("Index");
-
-
-            if (!request.NewImage.ContentType.Contains("image/"))
+            if (request.NewImage is not null)
             {
-                ModelState.AddModelError("NewImage", "File must be only image format");
-                request.Image = service.Icon;
-                return View(request);
-            }
+                if (!request.NewImage.ContentType.Contains("image/"))
+                {
+                    ModelState.AddModelError("NewImage", "File must be only image format");
+                    request.Image = service.Icon;
+                    return View(request);
+                }
 
 
-            string oldPath = Path.Combine(_env.WebRootPath, "img", service.Icon);
+                string oldPath = Path.Combine(_env.WebRootPath, "img", service.Icon);
 
-            if (System.IO.File.Exists(oldPath))
-                System.IO.File.Delete(oldPath);
+                if (System.IO.File.Exists(oldPath))
+                    System.IO.File.Delete(oldPath);
 
-            string fileName = Guid.NewGuid().ToString() + "-" + request.NewImage.FileName;
+                string fileName = Guid.NewGuid().ToString() + "-" + request.NewImage.FileName;
 
-            string newPath = Path.Combine(_env.WebRootPath, "img", fileName);
+                string newPath = Path.Combine(_env.WebRootPath, "img", fileName);
 
-            using (FileStream stream = new(newPath, FileMode.Create))
-            {
-                await request.NewImage.CopyToAsync(stream);
-            }
+                using (FileStream stream = new(newPath, FileMode.Create))
+                {
+                    await request.NewImage.CopyToAsync(stream);
+                }
+
+                service.Icon = fileName;
+            };
+
+
+
 
             service.Title = request.Title;
             service.Description = request.Description;
-            service.Icon = fileName;
+
 
 
             await _context.SaveChangesAsync();

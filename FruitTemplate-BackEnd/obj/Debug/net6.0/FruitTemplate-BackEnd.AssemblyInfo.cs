@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FruitTemplate-BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e030804cf35a8d7543210c725ca91b59758feeeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7c8d2d46d50f444b9eb53ecab6c26ea41f57188")]
 [assembly: System.Reflection.AssemblyProductAttribute("FruitTemplate-BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FruitTemplate-BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

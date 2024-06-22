@@ -137,34 +137,39 @@ namespace FruitTemplate_BackEnd.Areas.Admin.Controllers
 
             if (bestSeller is null) return NotFound();
 
-            if (request.NewImage is null) return RedirectToAction("Index");
-
-
-            if (!request.NewImage.ContentType.Contains("image/"))
+            if (request.NewImage is not null)
             {
-                ModelState.AddModelError("NewImage", "File must be only image format");
-                request.Image = bestSeller.Image;
-                return View(request);
-            }
+
+                if (!request.NewImage.ContentType.Contains("image/"))
+                {
+                    ModelState.AddModelError("NewImage", "File must be only image format");
+                    request.Image = bestSeller.Image;
+                    return View(request);
+                }
 
 
-            string oldPath = Path.Combine(_env.WebRootPath, "img", bestSeller.Image);
+                string oldPath = Path.Combine(_env.WebRootPath, "img", bestSeller.Image);
 
-            if (System.IO.File.Exists(oldPath))
-                System.IO.File.Delete(oldPath);
+                if (System.IO.File.Exists(oldPath))
+                    System.IO.File.Delete(oldPath);
 
-            string fileName = Guid.NewGuid().ToString() + "-" + request.NewImage.FileName;
+                string fileName = Guid.NewGuid().ToString() + "-" + request.NewImage.FileName;
 
-            string newPath = Path.Combine(_env.WebRootPath, "img", fileName);
+                string newPath = Path.Combine(_env.WebRootPath, "img", fileName);
 
-            using (FileStream stream = new(newPath, FileMode.Create))
-            {
-                await request.NewImage.CopyToAsync(stream);
-            }
+                using (FileStream stream = new(newPath, FileMode.Create))
+                {
+                    await request.NewImage.CopyToAsync(stream);
+                }
+
+                bestSeller.Image = fileName;
+            };
+
+
 
             bestSeller.Price = request.Price;
             bestSeller.Title = request.Title;
-            bestSeller.Image = fileName;
+
 
 
             await _context.SaveChangesAsync();
